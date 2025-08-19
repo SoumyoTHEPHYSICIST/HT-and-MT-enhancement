@@ -1,11 +1,10 @@
-#Enhancement of Heat and Mass Transfer in Weakly Viscoelastic Fluids
+Enhancement of Heat and Mass Transfer in Weakly Viscoelastic Fluids
+
 Enhancement of Heat and Mass Transfer in Second-Order and Viscoelastic Fluids: Effects of Weak Elasticity on Nusselt and Sherwood Correlations
+
 Overview
-
 This project investigates the enhancement of heat and mass transfer rates in weakly viscoelastic fluids under shear and Poiseuille flows. The analysis begins with the Second-Order Fluid (SOF) approximation, based on the work of Ganesh Subramanian & Donald Koch (2006, 2007), and is extended toward finite Weissenberg number (Wi) models such as FENE-P and Oldroyd-B.
-
 The study focuses on how Deborah number (De) and the viscoelastic parameter ε influence:
-
 Convective vs. advective transport mechanisms.
 Nusselt (Nu) and Sherwood (Sh) correlations.
 Flow stability and particle migration.
